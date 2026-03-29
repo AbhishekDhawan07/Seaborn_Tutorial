@@ -1,4 +1,4 @@
-# 📊 Seaborn_Tutorial
+# 📊 Seaborn Tutorial
 
 A complete hands-on tutorial on **Seaborn**, a powerful Python data visualization library built on top of Matplotlib.  
 This project covers fundamental to intermediate concepts of data visualization using Seaborn with practical examples.
